@@ -18,4 +18,4 @@ Defined a function which generates a random choice for the computer and compares
 
 ## Milestone 4
 
-Incorporated features such as a scoreboard to display the round winner and eventually the game winner (first to 3 wins, is the victor!). A countdown to notify the user the remaining time left to choose their hand.
+Incorporated features such as a scoreboard to display the round winner and eventually the game winner (first to 3 wins, is the victor!) and a countdown to notify the user the remaining time left to choose their hand.
